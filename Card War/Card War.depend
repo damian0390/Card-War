@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1666207229 source:c:\users\dell\onedrive\pulpit\card war\card war\card.cpp
+	"card.hpp"
+
+1666207056 c:\users\dell\onedrive\pulpit\card war\card war\card.hpp
+	<string>
+
+1666207271 source:c:\users\dell\onedrive\pulpit\card war\card war\deck.cpp
+	"deck.hpp"
+
+1666207129 c:\users\dell\onedrive\pulpit\card war\card war\deck.hpp
+	<iostream>
+	<vector>
+	<ctime>
+	<thread>
+	<chrono>
+	"card.hpp"
+	"player.hpp"
+
+1666207176 c:\users\dell\onedrive\pulpit\card war\card war\player.hpp
+	<vector>
+	<string>
+	<iostream>
+	"card.hpp"
+
+1666206925 source:c:\users\dell\onedrive\pulpit\card war\card war\main.cpp
+	<iostream>
+	"card.hpp"
+	"deck.hpp"
+	"player.hpp"
+
+1666207329 source:c:\users\dell\onedrive\pulpit\card war\card war\player.cpp
+	"player.hpp"
+
